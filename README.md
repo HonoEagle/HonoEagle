@@ -23,13 +23,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Discord">My discord</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#contact me">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#personnal discord">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Discord
+
 <p align="center">
   <a href="https://discord.gg/"><img src="https://discordapp.com/api/guilds/856662946499657748/widget.png?style=banner3"></a>
 </p>
@@ -64,3 +66,8 @@ Here are some ideas to get you started:
 
 ## about-the-project
 My Github
+
+## Contact me
+
+## personnal discord
+ 
