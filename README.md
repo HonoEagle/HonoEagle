@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://discord.gg/"><img src="https://discordapp.com/api/guilds/856662946499657748/widget.png?style=banner3"></a>
 </p>
-
-<iframe src="https://discord.com/widget?id=856662946499657748&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
