@@ -3,23 +3,25 @@
 <div id="top"></div>
 
 <br />
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/856670337433206834/982277154811285564/66_crop.png" alt="Logo" width="160" height="160">
-    <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&layout=compact&langs_count=7&theme=dracula"/>
-    <br>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/856670337433206834/982277154811285564/66_crop.png" alt="Logo" width="160" height="160" >
+</p>
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&layout=compact&langs_count=7&theme=dracula"/>
+<br>
 
   <h3 align="center">Best ReadMe ever ❤</h3>
 
   <p align="center">
     A GitHub student account with wacky projects
     <br />
-    <a href="https://github.com/"><strong>Under Construction »</strong></a>
+    <a href="https://github.com/HonoEagle"><strong>Under Construction »</strong></a>
     <br />
     <br />
   </p>
-</div>
+
 <!--<details>
   <summary>Table of Contents</summary>
   <ol>
