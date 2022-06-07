@@ -8,6 +8,8 @@
   <img src="https://cdn.discordapp.com/attachments/856670337433206834/982277154811285564/66_crop.png" alt="Logo" width="160" height="160" >
 </p>
 
+<!--     GITHUB STATS     -->
+
 <div align="center">
   <a href="https://github.com/honoeagle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,44 +29,13 @@
     <br />
   </p>
 
-<!--<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#Discord">My discord</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>-->
 
-<!--
-**HonoEagle/HonoEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--     ABOUTE THE PROJECT     -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Discord
-
-<p align="center">
-  <a href="https://discord.gg/"><img src="https://discordapp.com/api/guilds/856662946499657748/widget.png?style=banner3"></a>
-</p>
-
-
-## about-the-project
+## About the project
 My Github
 
-## Contact me
+<!--     CONTACT ME     -->
 
-## personnal discord
+## Contact me
 `[CG] HӨNӨ ΣΔGLΣ 🦆#1337`
