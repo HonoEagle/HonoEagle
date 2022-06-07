@@ -5,7 +5,8 @@
 <br />
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/856670337433206834/982277154811285564/66_crop.png" alt="Logo" width="160" height="160">
-  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
   <h3 align="center">Best-README-Template</h3>
 
