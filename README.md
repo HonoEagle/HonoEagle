@@ -5,20 +5,22 @@
 <br />
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/856670337433206834/982277154811285564/66_crop.png" alt="Logo" width="160" height="160">
+    <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&layout=compact&langs_count=7&theme=dracula"/>
+    <br>
 
-
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Best ReadMe ever ❤</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A GitHub student account with wacky projects
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/"><strong>Under Construction »</strong></a>
     <br />
     <br />
   </p>
 </div>
-<details>
+<!--<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -27,21 +29,8 @@
         <li><a href="#Discord">My discord</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#contact me">Getting Started</a>
-      <ul>
-        <li><a href="#personnal discord">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+</details>-->
 
 <!--
 **HonoEagle/HonoEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
