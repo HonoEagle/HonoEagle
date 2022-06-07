@@ -67,4 +67,4 @@ My Github
 ## Contact me
 
 ## personnal discord
- 
+`[CG] HӨNӨ ΣΔGLΣ 🦆#1337`
