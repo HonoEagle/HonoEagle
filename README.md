@@ -9,21 +9,23 @@
 </p>
 
 <!--     GITHUB STATS     -->
-
+<!-- 
 <div style="display: inline_block">
 <img align="left" width="430" height="auto" alt="HonoEagle's github stats" src="https://github-readme-stats.vercel.app/api?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
 <img align="right" width="359" height="auto" alt="HonoEagle's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
 </div>
-<!--
+-->
+
+
 <div align="center">
   <a href="https://github.com/honoeagle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117"/>
   <br>
   <br>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117"/>
   </a>
 </div>
--->
+
 
 <!--
 <div style="display: inline_block" align="center">
