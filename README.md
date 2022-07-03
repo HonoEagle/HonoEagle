@@ -26,19 +26,8 @@
   </a>
 </div>
 
-
-<!--
 <div style="display: inline_block" align="center">
-  <img align="left" height="auto" src="https://github-readme-stats.vercel.app/api?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&include_all_commits=true">
-  <img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&show_icons=true">
-</div>
--->
 
-<br>
-<br>
-<div style="display: inline_block" align="center">
-  <br>
-  <br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
