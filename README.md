@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/856670337433206834/982277154811285564/66_crop.png" alt="Logo" width="160" height="160" >
+  <img src="https://cdn.discordapp.com/attachments/856670337433206834/982277154811285564/66_crop.png" alt="Logo" width="180" height="180" >
 </p>
 
 <!--     GITHUB STATS     -->
