@@ -46,4 +46,4 @@ My Github
 <!--     CONTACT ME     -->
 
 ## Contact me
-`[CG] HӨNӨ ΣΔGLΣ 🦆#1337`
+https://discord.gg/MGunW4PM4X
