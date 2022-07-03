@@ -50,4 +50,4 @@ My Github
 <!--     CONTACT ME     -->
 
 ## Contact me
-https://discord.gg/MGunW4PM4X
+--> https://discord.gg/MGunW4PM4X
