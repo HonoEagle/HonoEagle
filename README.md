@@ -9,16 +9,13 @@
 </p>
 
 <!--     GITHUB STATS     -->
-<!--
+
 <div align="center">
   <a href="https://github.com/honoeagle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" width="430" height="auto" alt="HonoEagle's github stats" src="https://github-readme-stats.vercel.app/api?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
+  <img align="right" width="359" height="auto" alt="HonoEagle's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
   </a>
-</div> -->
-
-<img align="left" width="430" height="auto" alt="HonoEagle's github stats" src="https://github-readme-stats.vercel.app/api?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
-<img align="right" width="359" height="auto" alt="HonoEagle's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
+</div>
 <br>
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
