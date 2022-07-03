@@ -1,7 +1,6 @@
 <br />
-
-<p align="center">
 ### Hi there 👋
+<p align="center">
   <img src="image/66_crop.png" alt="Logo" width="180" height="180" >
 </p>
 
