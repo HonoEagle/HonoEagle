@@ -1,14 +1,13 @@
-### Hi there 👋
-
-<!--<div id="top"></div>-->
-
 <br />
 
 <p align="center">
+  ### Hi there 👋
   <img src="image/66_crop.png" alt="Logo" width="180" height="180" >
 </p>
 
 <!--     GITHUB STATS     -->
+
+### Here is my Github's stats
 
 <div align="center">
   <a href="https://github.com/honoeagle">
