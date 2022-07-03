@@ -14,7 +14,8 @@
   <a href="https://github.com/honoeagle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
 </div>
 
