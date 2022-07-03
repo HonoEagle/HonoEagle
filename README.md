@@ -20,7 +20,8 @@
 <img align="left" width="430" height="auto" alt="HonoEagle's github stats" src="https://github-readme-stats.vercel.app/api?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
 <img align="right" width="359" height="auto" alt="HonoEagle's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonoEagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
 <br>
-<div style="display: inline_block" align="center"><br>
+<br>
+<div style="display: inline_block" align="center">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,7 +35,7 @@
   <h3 align="center">Best ReadMe ever ❤</h3>
 
   <p align="center">
-    A GitHub student account with wacky projects
+    A GitHub student account with wacky projects ☕
     <br />
     <a href="https://github.com/HonoEagle"><strong>Under Construction »</strong></a>
     <br />
