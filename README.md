@@ -1,9 +1,11 @@
-### Hi there 👋
+### <p align="center">☕ &nbsp;Buy me a coffee</p>
+<br>
+<p align="center"><strong>
+  Bitcoin: <br>
+  Ethereum: <br>
+</strong></p>
 
-coffee  Buy me a coffee
 
-Bitcoin: 
-Ethereum: 
 
 <!--     GITHUB STATS     -->
 ### Here is my Github's stats :octocat:
