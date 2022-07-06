@@ -8,12 +8,12 @@
 
 
 <!--     GITHUB STATS     -->
-### <p align="center">Here is my Github's stats :octocat: </p>
+### <p align="center">:octocat: Here is my Github's stats</p>
 
 <div align="center">
   <a href="https://github.com/honoeagle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honoeagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoeagle&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;"/>
   </a>
 </div>
 
