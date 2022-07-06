@@ -8,7 +8,7 @@
 
 
 <!--     GITHUB STATS     -->
-### Here is my Github's stats :octocat:
+### <p align="center">Here is my Github's stats :octocat: </p>
 
 <div align="center">
   <a href="https://github.com/honoeagle">
