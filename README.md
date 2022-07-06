@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+coffee  Buy me a coffee
 
-<p align="center">
-  <img src="image/66_crop.png" alt="Logo" width="180" height="180" >
-</p>
+Bitcoin: 
+Ethereum: 
 
 <!--     GITHUB STATS     -->
 ### Here is my Github's stats :octocat:
