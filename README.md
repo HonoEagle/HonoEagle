@@ -1,8 +1,8 @@
 ### <p align="center">☕ &nbsp;Buy me a coffee</p>
 <br>
 <p align="center"><strong>
-  Bitcoin: <br>
-  Ethereum: <br>
+  Bitcoin: n/a<br>
+  Ethereum: 0x5ae54ff0a9627887198C62f81Cd961c35850028c<br>
 </strong></p>
 
 
@@ -35,16 +35,7 @@
   <p align="center">
     A GitHub student account with wacky projects ☕
     <br />
-    <a href="https://github.com/HonoEagle"><strong>Under Construction »</strong></a>
-    <br />
-    <br />
   </p>
-
-
-<!--     ABOUTE THE PROJECT     -->
-
-## About the project
-My Github
 
 <!--     CONTACT ME     -->
 
