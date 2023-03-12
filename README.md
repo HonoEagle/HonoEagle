@@ -5,7 +5,7 @@
   Ethereum: 0x5ae54ff0a9627887198C62f81Cd961c35850028c<br>
 </strong></p>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HonoEagle&label=Profile%20views&color=0e75b6&style=flat" alt="honoeagle" /> </p>
 
 <!--     GITHUB STATS     -->
 ### <p align="center">:octocat: Here is my Github's stats</p>
