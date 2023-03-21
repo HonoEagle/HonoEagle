@@ -2,14 +2,14 @@
 <h3 align="center">A passionate developer from earth</h3>
 
 <p align="center"><strong>
-  Buy me a coffee or something 
+  Buy me a coffee or something<br>
   Bitcoin: n/a<br>
   Ethereum: 0x5ae54ff0a9627887198C62f81Cd961c35850028c<br>
 </strong></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=honoeagle&label=Profile%20views&color=257e64&style=plastic" alt="honoeagle" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=honoeagle&label=Profile%20views&color=257e64&style=plastic" alt="honoeagle" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=honoeagle" alt="honoeagle" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=honoeagle" alt="honoeagle" /></a> </p>
 
 - 🔭 I’m currently working on a [Discord Bot](https://github.com/HonoEagle/discBot-dev)
 
