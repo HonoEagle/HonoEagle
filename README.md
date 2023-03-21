@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm HonoEagle</h1>
-<h3 align="center">
-  A passionate developer from earth :earth:
-  And a Apple user<a href="https://apple.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg" width="40" height="40"/> </a>
-</h3>
+<h3 align="center">A passionate developer from earth</h3>
 
 <p align="center"><strong>
   Buy me a coffee or something<br>
