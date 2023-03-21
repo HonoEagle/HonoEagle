@@ -3,7 +3,6 @@
 
 <p align="center"><strong>
   Buy me a coffee or something 
-
   Bitcoin: n/a<br>
   Ethereum: 0x5ae54ff0a9627887198C62f81Cd961c35850028c<br>
 </strong></p>
