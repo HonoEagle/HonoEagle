@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HonoEagle</h1>
 <h3 align="center">A passionate developer from earth</h3>
-
+<a href=""> <img src="https://discord.c99.nl/widget/theme-1/422441208359419924.png"> </a>
 <p align="center"><strong>
   Buy me a coffee or something<br>
   Bitcoin: n/a<br>
