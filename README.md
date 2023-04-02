@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://discord.gg/MGunW4PM4X**
 
-<a href=""> <img align="center" src="https://discord.c99.nl/widget/theme-1/422441208359419924.png"> </a>
+<a href="https://discord.com/users/422441208359419924"> <img align="center" src="https://discord.c99.nl/widget/theme-1/422441208359419924.png"> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
