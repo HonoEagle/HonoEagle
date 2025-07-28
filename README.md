@@ -1,28 +1,15 @@
 <h1 align="center">Hi 👋, I'm HonoEagle</h1>
 <h3 align="center">A passionate developer from earth</h3>
 
-<p align="center"><strong>
-  Buy me a coffee or something<br>
-  Bitcoin: n/a<br>
-  Ethereum: 0x5ae54ff0a9627887198C62f81Cd961c35850028c<br>
-</strong></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=honoeagle&label=Profile%20views&color=257e64&style=plastic" alt="honoeagle" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=honoeagle" alt="honoeagle" /></a> </p>
 
-- 🔭 I’m currently working on a [Discord Bot](https://github.com/HonoEagle/discBot-dev)
-
 - 🌱 I’m currently learning **php, mysql and powershell**
 
 - 📫 How to reach me **https://discord.gg/GwQQPUjbyC**
 
-<a href="https://discord.com/users/660618145077264414"> <img align="center" src="https://discord.c99.nl/widget/theme-1/660618145077264414.png"> </a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.gg/MGunW4PM4X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MGunW4PM4X" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
