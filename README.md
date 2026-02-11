@@ -1,7 +1,7 @@
 # HonoEagle
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=800&color=2F855A&center=true&vCenter=true&width=700&lines=Developpeur+passionné;PHP+%7C+MySQL+%7C+PowerShell;Toujours+en+apprentissage" alt="Typing banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=800&color=2F855A&center=true&vCenter=true&width=700&lines=Developpeur+passionne;PHP+%7C+MySQL+%7C+PowerShell;Toujours+en+apprentissage" alt="Typing banner" />
 </p>
 
 <p align="center">
@@ -17,20 +17,10 @@
 
 ## Reseaux
 
-<p align="left">
-  <a href="https://honoeagle.be/" target="_blank">
-    <img src="https://img.shields.io/badge/Site-honoeagle.be-0A7B83?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site honoeagle.be" />
-  </a>
-  <a href="https://patchnote.honoeagle.be/" target="_blank">
-    <img src="https://img.shields.io/badge/Site-Patchnote-1E90FF?style=for-the-badge&logo=readme&logoColor=white" alt="Site Patchnote" />
-  </a>
-  <a href="https://github.com/HonoEagle" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-HonoEagle-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://discord.gg/eAa55WR4um" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+[![Site honoeagle.be](https://img.shields.io/badge/Site-honoeagle.be-0A7B83?style=for-the-badge&logo=google-chrome&logoColor=white)](https://honoeagle.be/)
+[![Site Patchnote](https://img.shields.io/badge/Site-Patchnote-1E90FF?style=for-the-badge&logo=readme&logoColor=white)](https://patchnote.honoeagle.be/)
+[![GitHub](https://img.shields.io/badge/GitHub-HonoEagle-181717?style=for-the-badge&logo=github)](https://github.com/HonoEagle)
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eAa55WR4um)
 
 ## Projets phares
 
@@ -74,11 +64,7 @@
 
 ## Communaute
 
-<p align="left">
-  <a href="https://discord.gg/eAa55WR4um" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Serveur%20officiel-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord officiel" />
-  </a>
-</p>
+[![Discord officiel](https://img.shields.io/badge/Discord-Serveur%20officiel-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eAa55WR4um)
 
 ## Stack
 
@@ -106,12 +92,10 @@
 ## Statistiques GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=honoeagle&show_icons=true&theme=tokyonight&locale=fr" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=honoeagle&show_icons=true&theme=tokyonight&locale=fr&layout=compact" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HonoEagle&theme=tokyonight" alt="Profil GitHub detaille" />
 </p>
 
-## Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=honoeagle&theme=algolia&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HonoEagle&theme=tokyonight" alt="Statistiques GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HonoEagle&theme=tokyonight" alt="Repos par langage" />
 </p>
